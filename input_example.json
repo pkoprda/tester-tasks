@@ -1,0 +1,25 @@
+{
+    "interface": [
+        {
+            "name": "ProductNumber",
+            "tag": 14,
+            "type": "string",
+            "size": 90
+        },
+        {
+            "name": "SerialNumber",
+            "tag": 18,
+            "type": "int",
+            "size": 8
+        }        
+    ],
+    "data": [
+        {
+            "name": "DeviceType",
+            "tag": 4275,
+            "type": "bool",
+            "size": 1
+        }
+    ]
+}
+
