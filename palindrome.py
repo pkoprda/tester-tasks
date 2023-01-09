@@ -1,7 +1,7 @@
 #!/usr/bin/python3.9
 # coding=utf-8
 
-# Task 1
+# Task 1 - Palindrome
 
 from argparse import ArgumentParser
 

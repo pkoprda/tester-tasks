@@ -1,7 +1,7 @@
 #!/usr/bin/python3.9
 # coding=utf-8
 
-# Task 4
+# Task 4 - Caesar cipher
 
 def encrypt(input_text):
     for ch in input_text:

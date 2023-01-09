@@ -1,7 +1,7 @@
 #!/usr/bin/python3.9
 # coding=utf-8
 
-# Task 2
+# Task 2 - Code review
 
 def foo1(items):
     result = []
